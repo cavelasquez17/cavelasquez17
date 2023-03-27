@@ -2,7 +2,7 @@
 
 ## About me
 
-I'm passionate about web development and enjoy creating scalable and robust applications using Ruby on Rails. With [X] years of experience in software development, I have worked on projects of various sizes and complexities.
+I'm passionate about web development and enjoy creating scalable and robust applications using Ruby on Rails. With 3 years of experience in software development, I have worked on projects of various sizes and complexities.
 
 ## Technologies and tools I use
 
@@ -14,9 +14,4 @@ I'm passionate about web development and enjoy creating scalable and robust appl
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-## My featured projects
-
-- [Project 1](link-to-project-1): A brief description of project 1.
-- [Project 2](link-to-project-2): A brief description of project 2.
-- [Project 3](link-to-project-3): A brief description of project 3.
 
