@@ -1,10 +1,10 @@
-# ¡Hola! 👋 Soy [Tu nombre], desarrollador Ruby on Rails.
+# Hi there! 👋 I'm Carlos Velásquez, a Ruby on Rails developer.
 
-## Sobre mí
+## About me
 
-Soy un apasionado por el desarrollo web y me encanta crear aplicaciones escalables y robustas utilizando Ruby on Rails. Con [X] años de experiencia en el desarrollo de software, he trabajado en proyectos de diversos tamaños y complejidades.
+I'm passionate about web development and enjoy creating scalable and robust applications using Ruby on Rails. With [X] years of experience in software development, I have worked on projects of various sizes and complexities.
 
-## Tecnologías y herramientas que utilizo
+## Technologies and tools I use
 
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white)
@@ -14,9 +14,9 @@ Soy un apasionado por el desarrollo web y me encanta crear aplicaciones escalabl
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-## Mis proyectos destacados
+## My featured projects
 
-- [Proyecto 1](enlace-al-proyecto-1): Una descripción breve del proyecto 1.
-- [Proyecto 2](enlace-al-proyecto-2): Una descripción breve del proyecto 2.
-- [Proyecto 3](enlace-al-proyecto-3): Una descripción breve del proyecto 3.
+- [Project 1](link-to-project-1): A brief description of project 1.
+- [Project 2](link-to-project-2): A brief description of project 2.
+- [Project 3](link-to-project-3): A brief description of project 3.
 
