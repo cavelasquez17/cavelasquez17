@@ -33,37 +33,29 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## Types of projects I've worked on
+## Client work (private, under NDA)
 
-**☁️ Cloud content platform (Go microservices + React + React Native)**
-Users, content, media transformation and notification services behind Traefik, with clean architecture per service. Redis-backed sessions, OAuth (Goth), 2FA/TOTP, passkeys/WebAuthn, background jobs with Asynq, S3 storage, Sentry and PostHog. Web client in React + Vite with TanStack Query, i18n and Radix UI; mobile client in React Native with push notifications, in-app purchases, VoIP, video/audio playback and passkeys.
+Names are withheld because the repositories are private and belong to clients.
 
-**📊 SEO & web-analytics data pipelines (Ruby)**
-Distributed processing of traffic, query and crawl data: BigQuery and Google Analytics/Search Console integrations, Redis-backed processing, and Resque workers executed as Kubernetes Jobs on autoscaled nodes.
+**☁️ Cloud content platform: Go microservices, React, React Native** *(contributed to a portion of the product)*
+Users, content, media transformation and notification services behind Traefik, with clean architecture per service. Redis-backed sessions, OAuth, 2FA/TOTP, passkeys/WebAuthn, background jobs with Asynq, S3 storage, Sentry and PostHog. React + Vite web client with TanStack Query, i18n and Radix UI; React Native mobile client.
 
-**🏭 Industrial & safety-management systems (Rails)**
-EHS/document-management platform with role-based privileges, document history, PDF generation, scheduled jobs and real-time updates (Faye). Device-data microservices for vehicle telemetry with Elasticsearch, matchmaking and daily summaries.
+**📊 SEO & web-analytics data platform: Ruby**
+Distributed processing of traffic, query and crawl data. BigQuery and Google Analytics/Search Console integrations, Redis-backed processing, and Resque workers run as Kubernetes Jobs on autoscaled nodes.
 
-**⚖️ Hardware integration**
-Serial-port capture of industrial scale readings with Go and Python, stored in SQLite, with a small dashboard and Windows deployment. Internal API and client around it, deployed with Docker and Capistrano.
+**🏭 Industrial safety & telemetry: Rails**
+EHS/document-management platform with role-based privileges, document history, PDF generation, scheduled jobs and real-time updates. Device-data microservices for vehicle telemetry using Elasticsearch, matchmaking and daily summaries.
 
-**💳 Fintech & lending (Rails API)**
-Loan lifecycle with payments, installments, refinancing and promissory notes; state machines (AASM), token auth (Devise), authorization (CanCanCan), banking-data integration, S3 uploads and PDF documents.
+**⚖️ Industrial weighing: backend and frontend**
+Serial-port capture of scale readings with Go and Python, stored in SQLite, plus an internal API and client. Docker and Capistrano deployments, Windows installers and a live dashboard.
 
-**🛠️ Operations & maintenance back-offices (Rails + ActiveAdmin)**
-Machine, maintenance, operator and cost tracking with monthly Excel/PDF reports and role-based access.
+**💳 Fintech & lending: Rails API**
+Loan lifecycle covering payments, installments, refinancing and promissory notes. State machines (AASM), token auth (Devise), authorization (CanCanCan), banking-data integration, S3 uploads and PDF generation.
 
-**🛒 E-commerce (Spree on Rails)**
-Storefront with payment gateways, i18n, Sidekiq, Memcached, Sentry and APM.
-
-**🏥 Healthcare decision support (Rails)**
-Clinical histories and a rules-based diagnosis engine integrated with the WHO ICD-11 API.
-
-**🎮 Real-time & gaming (Rails)**
-Matches, rounds and transactions with Pusher/Redis for live updates, invitation flows and Tailwind UI.
+## Own projects
 
 **🤖 Bots, scrapers & AI agents (Go, Python, Ruby)**
-Telegram bots, scheduled web scrapers (Kimurai), an automated sports-analysis engine that combines stats APIs, odds feeds and LLM agents on an Oracle Cloud VM with SQLite, and a deterministic ingest, validate, analyze and settle pipeline.
+Telegram bots, scheduled scrapers and an automated sports-analysis engine that combines stats APIs, odds feeds and LLM agents on an Oracle Cloud VM, using a deterministic ingest, validate, analyze and settle pipeline.
 
 **🧪 APIs & integrations**
 REST APIs in Go (Gin, GORM, JWT, Swagger, Docker multi-stage, unit and integration tests), Microsoft Graph and OneDrive sync, Google auth and APIs.
