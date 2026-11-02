@@ -46,8 +46,11 @@ Distributed processing of traffic, query and crawl data. BigQuery and Google Ana
 **🏭 Industrial safety & telemetry: Rails**
 EHS/document-management platform with role-based privileges, document history, PDF generation, scheduled jobs and real-time updates. Device-data microservices for vehicle telemetry using Elasticsearch, matchmaking and daily summaries.
 
-**⚖️ Industrial weighing: backend and frontend**
-Serial-port capture of scale readings with Go and Python, stored in SQLite, plus an internal API and client. Docker and Capistrano deployments, Windows installers and a live dashboard.
+**📦 Logistics & export operations portal: Rails API + Next.js** *(backend and frontend)*
+Internal platform for an export/trading company covering quotes, bookings, sales and purchase orders, shipping instructions, packing and container lists, documentation, customers, suppliers and ports. Rails 7 API with Devise token auth, invitations and Pundit policies; Sidekiq and scheduled jobs that keep orders, bookings and documents in sync with Microsoft Business Central (OAuth2/NTLM, Faraday retries); Excel exports, notifications by email and Slack, Sentry, and security audits (Brakeman, bundler-audit). Next.js + TypeScript client with Redux, React Hook Form, drag-and-drop boards, tables, charts and Tailwind. Deployed with Capistrano.
+
+**⚖️ Industrial weighing & ERP sync: Go and Python**
+Serial-port capture of scale readings stored in SQLite, with a live dashboard and Windows installers. On-premise Go service (clean architecture) that syncs weight data from Excel to Microsoft Business Central through OAuth2.
 
 **💳 Fintech & lending: Rails API**
 Loan lifecycle covering payments, installments, refinancing and promissory notes. State machines (AASM), token auth (Devise), authorization (CanCanCan), banking-data integration, S3 uploads and PDF generation.
