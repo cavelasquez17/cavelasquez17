@@ -1,6 +1,6 @@
 # Hi, I'm Carlos Velásquez 👋
 
-**Backend-leaning full-stack engineer** at [Guarapo Labs](https://github.com/guarapolabs). I build and run production web platforms: Go and Ruby on Rails services, React/Next.js frontends, containers and cloud infrastructure.
+**Backend-leaning full-stack engineer.** I build and run production web platforms: Go and Ruby on Rails services, React/Next.js frontends, containers and cloud infrastructure.
 
 ## What I do
 
@@ -45,7 +45,7 @@
 
 ## Currently
 
-- Building products and internal platforms at Guarapo Labs.
+- Building products and internal platforms.
 - Exploring agent-driven workflows: scheduled analysis jobs, bots and tooling around LLMs.
 
 ## Let's talk
